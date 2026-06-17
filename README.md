@@ -27,6 +27,4 @@ Puoi usare, ad esempio, il compilatore disponibile qui:
 - Alternativamente, un compilatore online come [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
 
 ## Autore
-
-Progetto realizzato da **Conte Dev**.  
-Per commenti, suggerimenti o miglioramenti, ogni contributo è benvenuto.
+**Conte Dev**.  
