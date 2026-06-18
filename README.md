@@ -1,3 +1,4 @@
+![header](assets/header.svg)
 # For In a Row C++ (Forza 4)
 
 Questo progetto è un'implementazione semplice e funzionale del classico gioco Forza 4, sviluppata in linguaggio C++. È pensato per essere giocato in locale da due giocatori, direttamente da terminale.
